@@ -21,7 +21,7 @@ A simple and intuitive **Flutter** application for managing reminders, built usi
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/reminder.git
+   git clone https://github.com/epicureanAshish/reminder.git
    cd reminder
    ```
 2. **Install Dependencies**
@@ -38,8 +38,7 @@ A simple and intuitive **Flutter** application for managing reminders, built usi
 ## 🎥 Demo
 
 Check out the working demo of the app:  
-[demo.mov](assets/video/demo.mov)
-
+![Demo](assets/video/demo.gif)
 ---
 
 ## 💡 Tech Stack
